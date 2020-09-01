@@ -1,0 +1,8 @@
+﻿<Application x:Class="CH05_04.OwnerWindows.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CH05_04.OwnerWindows">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
